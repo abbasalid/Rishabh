@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "sectionId": "1",
+      "questionsList": [
+        {
+          "questionId": "1",
+          "questionType": "SingleChoice",
+          "details": {
+            "question": "What is the latest version in Android?",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ]
+          }
+        },
+        {
+          "questionId": "2",
+          "questionType": "LongDesc",
+          "details": {
+            "question": "Write the lifecycle methods of an Activity in series."
+          }
+        },
+        {
+          "questionId": "3",
+          "questionType": "ShortDesc",
+          "details": {
+            "question": "Which library is used to add dependency injection in Android?"
+          }
+        },
+        {
+          "questionId": "4",
+          "questionType": "MultipleChoice",
+          "details": {
+            "question": "Select all the options which are valid LayoutManager.",
+            "options": [
+              "StaggeredGridLayoutManager",
+              "GridLayoutManager",
+              "LinearLayoutManager",
+              "CircularLayoutManager"
+            ]
+          }
+        }
+      ],
+      "action": {
+        "actionId": "1",
+        "actionType": "ActionButton",
+        "details": {
+          "captionText": "Submit"
+        }
+      }
+    }
+  ]
+}
